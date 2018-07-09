@@ -1,0 +1,14 @@
+body{background-color: #a11;}
+
+#demo{
+	border: 3px solid red;
+	border-radius: 30px;
+	min-height: 400px;
+	background-color: #c33;
+	margin: 0 30px;
+	padding: 20px;
+}
+
+h1{
+	margin: 10px 60px;
+}
